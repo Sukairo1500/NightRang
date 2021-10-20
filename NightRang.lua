@@ -7696,7 +7696,7 @@ Text = [[
 
 [ Source Port . ](t.me/c888i)
 
-[ . مطور السورس ](bqqqc)
+[ . مطور السورس ](t.me/bqqqc)
 
 [ . مطور السورس ](t.me/gccca)
 
